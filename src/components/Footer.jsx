@@ -2,7 +2,7 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 
 const Footer = (props) => {
-  const bgStyle = { backgroundColor: "#f5f5f5" };
+  const bgStyle = {backgroundColor: "#f5f5f5"};
 
   return (
     <footer style={bgStyle} className="mt-auto py-5 text-center ">
@@ -11,10 +11,10 @@ const Footer = (props) => {
         <i className="fas fa-code" /> with <i className="fas fa-heart" /> by{" "}
         <a
           rel="noopener"
-          href="https://github.com/hashirshoaeb"
+          href="https://github.com/oyewoleoluwaseun"
           aria-label="My GitHub"
         > <span className="badge bg-dark">
-            Hashir Shoaib
+            Oluwaseun Oyewole
           </span>
         </a>{" "}
         using <i className="fab fa-react" />

@@ -8,7 +8,7 @@
     <a href="https://oyewoleoluwaseun.github.io/home">oyewoleoluwaseun.github.io/home</a>
     <br />
     <br />
-    <a href="https://oyewoleoluwaseun.github.io">About Me</a>
+    <a href="https://oyewoleoluwaseun.github.io/home/#aboutme">About Me</a>
   </p>
 </p>
 

@@ -7,7 +7,7 @@ const navBar = {
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
   firstName: "Oluwaseun",
-  middleName: "Gabriel",
+  middleName: "",
   lastName: "Oyewole",
   message: " Passionate about changing the world with technology. ",
   icons: [
@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Oyewole Oluwaseun Gabriel. I am a graduate of 2016 from Obafemi Awolowo University, Ile-Ife, Nigeria. I am a meticulous, dedicated and a proactive person who loves to explore new technologies and passionate about learning. An optimistic person who is always energetic and hungry in learning new skills with eagerness to succeed and enthusiasm to compete. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of Technology.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1DfdBJNThRUfjX2QhHaLGAC1OHGUbI4ga/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -67,7 +67,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "oyewoleoluwaseun", //i.e."johnDoe12Gh"
-  reposLength: 0,
+  reposLength: 4,
   specificRepos: [],
 };
 
@@ -136,7 +136,7 @@ const experiences = {
   data: [
     {
       role: 'Software Developer - Lumos Studio Integrated Ltd',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
+      companylogo: require('../assets/img/logo.png'),
       date: 'June 2020 – Present',
     },
     // {
